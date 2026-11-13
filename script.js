@@ -5,7 +5,7 @@ const progressFill = document.getElementById("progressFill");
 const progressText = document.getElementById("progressText");
 const toast = document.getElementById("toast");
 
-const numeroEmpresa = "519XXXXXXXX";
+const numeroEmpresa = "51973002776";
 
 const fecha = document.getElementById("fecha");
 const hoy = new Date();
